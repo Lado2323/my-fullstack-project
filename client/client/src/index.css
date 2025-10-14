@@ -1,0 +1,80 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+
+
+
+
+
+.bggg {
+    background-color: #17383e; 
+}
+
+
+
+
+
+
+.bg{
+    background-color: rgb(210, 124, 97);
+}
+
+.font{
+    color: rgb(210, 124, 97);
+}
+
+
+.borderr{
+    border: 1px solid rgb(210, 124, 97);
+
+}
+
+
+.dog{
+    height: 440px;
+    width: 300px;
+}
+
+.color{
+    color: rgb(28, 62, 68);
+}
+
+.colorr{
+    color: rgb(30, 30, 30);
+}
+
+.dcolor{
+    background-color: #f9e4db;
+}
+
+.dogimg{
+    height: 450px;
+    width: 300px;
+}
+
+
+.footer{
+    background-color:#17383e;
+
+
+}
+
+.footerhov:hover{
+    color: #bc5d40;
+}
+
+
+.box1 {
+    height: 280px;
+    width: 400px;
+}
+
